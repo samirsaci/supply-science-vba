@@ -86,6 +86,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/samir-saci) for more t
 
 - [Python for Supply Chain Optimization](https://www.youtube.com/watch?v=1oRebt_Q0dY)
 - [Streamlit Apps for Logistics](https://www.youtube.com/watch?v=FC8nULkvHcQ)
-- [n8n Workflows for Automation](https://github.com/samirsaci/n8n-workflows)
+- [n8n Workflows for Automation](https://github.com/samirsaci/n8n_workflow)
 
 📘 *This tutorial is part of the Supply Science YouTube series on data-driven Supply Chain Analytics.*
